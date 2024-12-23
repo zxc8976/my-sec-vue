@@ -1,24 +1,80 @@
-# my-sec-vue
+# 東京鐵路即時資訊系統
 
-## Project setup
-```
+這是一個使用 Vue.js 開發的東京鐵路即時資訊系統，提供東京地區各鐵路系統的運行狀況和基本資訊。
+
+## 功能特點
+
+- 即時顯示列車延誤資訊
+- 支援多個鐵路系統：
+  - 東京地下鐵（9條線路）
+  - 都營地下鐵（4條線路）
+  - JR東日本（東京地區主要線路）
+  - 主要私鐵公司線路
+- 提供詳細的路線資訊
+- 最新鐵路相關新聞
+
+## 技術架構
+
+- Vue 3
+- Vue Router
+- Element Plus
+- Modern CSS Features
+
+## 開發環境設置
+
+### 安裝依賴
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+### 開發模式運行
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+### 生產環境構建
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
+### 代碼檢查
+```bash
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 支援的路線
+
+### 東京地下鐵
+- 銀座線
+- 丸之內線
+- 日比谷線
+- 東西線
+- 千代田線
+- 有樂町線
+- 半藏門線
+- 南北線
+- 副都心線
+
+### 都營地下鐵
+- 淺草線
+- 三田線
+- 新宿線
+- 大江戶線
+
+### JR線路
+- 山手線
+- 中央總武線
+- 京濱東北線
+- 埼京線
+- 湘南新宿線
+
+### 私鐵
+- 京王電鐵
+- 東急電鐵
+- 西武鐵道
+- 東武鐵道
+- 小田急電鐵
+- 京成電鐵
+
+## 授權
+MIT License
