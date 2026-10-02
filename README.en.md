@@ -89,7 +89,3 @@ npm run lint
 ## License
 
 MIT License
-
-## Author
-
-Ken Lin — graduated from Japan Electronics College, AI Systems Department in 2026

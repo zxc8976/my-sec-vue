@@ -89,7 +89,3 @@ npm run lint
 ## ライセンス
 
 MIT License
-
-## 作者
-
-林家誠（ken）— 日本電子専門学校 AIシステム科 2026年卒
